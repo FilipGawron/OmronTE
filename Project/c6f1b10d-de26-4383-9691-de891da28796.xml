@@ -1,6 +1,8 @@
 <StructuredTextModel xmlns="http://schemas.datacontract.org/2004/07/Omron.Cxap.Modules.StructuredText.Core" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><Text>//comment&#xD;
 IF var1 = TRUE THEN&#xD;
 	var1:=FALSE;&#xD;
+ELSE&#xD;
+	var2 := TRUE;&#xD;
 END_IF;&#xD;
 &#xD;
 RETURN;</Text></StructuredTextModel>
