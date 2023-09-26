@@ -4,4 +4,6 @@ _EN=Variables
 ++D=BOOL	N=Input00	G=VAR
 ++D=BOOL	N=Out00	G=VAR
 ++D=BOOL	N=input01	G=VAR
+++D=BOOL	N=Flag01	G=VAR
+++D=BOOL	N=Out01	G=VAR
 +GN=VAR_EXTERNAL	GA=External	GVT=ExternalGroup
